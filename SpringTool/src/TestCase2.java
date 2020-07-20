@@ -1,11 +1,9 @@
 
-public class TestCase1 {
+public class TestCase2 {
 	public static void main(String[] args) {
 		for(int i=1;i<10;i++) {
 			System.out.println("test cde"+i);
 			
 		}
-		}
 	}
-
-
+}
